@@ -8,7 +8,7 @@ languageCode = "es"
 defaultContentLanguage = "es"
 ShowBreadCrumbs = "true"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "cc3d"
+#disqusShortname = "cc3d"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 

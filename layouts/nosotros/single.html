@@ -6,17 +6,29 @@
     {{ partial "custom_headers.html" . }}
    <style>
         #post-content img {
-          //border-radius: 60px;
-          padding-top: 25px;
-          padding-right: 20px;
-          width: 250px;
+          //border-radius: 50px;
+          padding-top: 6px;
+          padding-right: 30px;
+          padding-bottom: 20px;
+          padding-left: 30px;
+          width: 280px;
           float: left;
-        
+          margin: 12px;
           }
         #post-content h2 {
-          padding-top:20px;
-          text-decoration: overline;
+          //padding-top:20px;
           color:rgb(94, 130, 130);
+        }
+        #post-content p {
+          text-align: justify;
+          font-size: 19px;
+        }
+        #post-content hr {
+          border:.1px solid;
+          width: 100%;
+          color:rgb(175, 192, 192);
+          margin: 20px;
+
         }
         
     </style>
@@ -58,13 +70,15 @@
 
                         <div id="post-content">
                           {{ .Content }}
+                          
+                        
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
                             {{ template "_internal/disqus.html" . }}
                         </div>
-                        {{ end }}
+                        {{ end }} 
 
                     </div>
                     <!-- /#blog-post -->
