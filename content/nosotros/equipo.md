@@ -1,6 +1,6 @@
 ---
 Title: Equipo CC3D
-
+noComment: true
 ---
 ![](/Pagina/img/padillas.jpeg)
 ## Naiot y Anelise Padilla (dirección)
