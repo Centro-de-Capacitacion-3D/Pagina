@@ -15,7 +15,7 @@ googleAnalytics = ""
 # number of words of summarized post content (default 70)
 summaryLength = 70
 
-# Define the number of posts per page
+# Define the number of pots per page
 paginate = 10
 
 # not pluralize title pages by default
@@ -126,7 +126,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Nosotros"
     identifier = "menu.allpages"
-    url        = ""
+    url        = "/nosotros/"
     weight     = 4
 
 [[menu.main]]
@@ -139,6 +139,12 @@ pluralizelisttitles = false
     name       = "El Equipo"
     url        = "/nosotros/equipo"
     weight     = 2
+    parent     = "menu.allpages"
+
+[[menu.main]]
+    name       = "Posición Doctrinal"
+    url        = "/nosotros/"
+    weight     = 3
     parent     = "menu.allpages"
 
 [[menu.main]]
@@ -159,14 +165,14 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+12 34 567 89 01"
+    url = "tel: +591 (7) 172-8180"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
-[[menu.topbar]]
-    weight = 2
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+#[[menu.topbar]]
+#     weight = 2
+#    name = "GitHub"
+#    url = "https://github.com/devcows/hugo-universal-theme"
+#    pre = "<i class='fab fa-2x fa-github'></i>"
 
 #[[menu.topbar]]
     #weight = 3
@@ -174,16 +180,16 @@ pluralizelisttitles = false
    # url = "http://facebook.com"
    # pre = "<i class='fab fa-2x fa-facebook'></i>"
 
-[[menu.topbar]]
-    weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+#[[menu.topbar]]
+#    weight = 4
+#    name = "Twitter"
+#    url = "http://twitter.com"
+#    pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 5
+    weight = 2
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:info@cc3d.org"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]

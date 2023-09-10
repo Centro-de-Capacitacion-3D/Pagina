@@ -44,7 +44,7 @@ ___
 ![](/Pagina/img/the-wrys.jpeg)
 ## John y Nelly Wry (fundadores)
 
-John y Nelly son misioneros de Canada y sirven con [DM2](https://www.dm2usa.org/) desde el año 2012.
+John y Nelly son misioneros de Canada y sirven con [DM2](https://www.dm2usa.org/) desde el año 2012. Tienen dos hijos, Rachel y Joshua.
 
 John tiene una pasión por la claridad del Evangelio como es enseñado por la Palabra. 
 
