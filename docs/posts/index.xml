@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CC3D</title>
-    <link>http://centro-de-capacitacion-3d.github.io/Pagina/posts/</link>
+    <link>http://centro-de-capacitacion-3d.github.io/posts/</link>
     <description>Recent content in Posts on CC3D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 27 Aug 2023 21:53:01 -0400</lastBuildDate><atom:link href="http://centro-de-capacitacion-3d.github.io/Pagina/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Aug 2023 21:53:01 -0400</lastBuildDate><atom:link href="http://centro-de-capacitacion-3d.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Costos</title>
-      <link>http://centro-de-capacitacion-3d.github.io/Pagina/posts/costos/</link>
+      <link>http://centro-de-capacitacion-3d.github.io/posts/costos/</link>
       <pubDate>Sun, 27 Aug 2023 21:53:01 -0400</pubDate>
       
-      <guid>http://centro-de-capacitacion-3d.github.io/Pagina/posts/costos/</guid>
+      <guid>http://centro-de-capacitacion-3d.github.io/posts/costos/</guid>
       <description>Internos incluye costos de alimentación, estadía y estudios Externos incluye costos de almuerzo y estudios </description>
     </item>
     
