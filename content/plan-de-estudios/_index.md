@@ -8,8 +8,8 @@ draft: false
 
 [Ver Calendario](/calendar)
 
-- [1 El Forastero en Camino a Emaús](https://www.cc3d.org/plan-de-estudios/01-sil-fce/ "El Forastero en Camino a Emaús")
-- [2 Del Edén al Calvario](https://www.cc3d.org/plan-de-estudios/02-sil-deac)
+- [1 El Forastero en Camino a Emaús](https://www.cc3d.org/plan-de-estudios/01-sil-fce/)
+- [2 Del Edén al Calvario](https://www.cc3d.org/plan-de-estudios/02-sil-deac/)
 - [3 Haciendo Hacedores de Discipulos](https://www.cc3d.org/plan-de-estudios/03-sil-hhd)
 - [4 Romanos 1-8](https://www.cc3d.org/plan-de-estudios/04-sil-rom1-8)
 - [5 Panorama del Antiguo Testamento](https://www.cc3d.org/plan-de-estudios/05-sil-pat)

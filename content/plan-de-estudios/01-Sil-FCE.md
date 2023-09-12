@@ -2,7 +2,6 @@
 title: "01 El Forastero en Camino a Emaús"
 date: 2023-08-27T22:35:15-04:00
 draft: false
-url: "/plan-de-estudios/01-sil-fce"
 ---
 
 <a href="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/plan"><img src="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/assets/images/cc3d-logo-white.webp" class="logoTop"></img></a>

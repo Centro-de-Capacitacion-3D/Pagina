@@ -1,8 +1,6 @@
 ---
 Title: "02 De Edén al Calvario" 
-Template: index
 Date: 13/10/2022
-url: "/plan-de-estudios/eden-al-calvario"
 ---
 <a href="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/plan"><img src="https://cloud.cc3d.org/index.php/apps/cms_pico/pico/cc3d-2022/assets/images/cc3d-logo-white.webp" class="logoTop"></img></a>
 
