@@ -36,7 +36,7 @@ Nos centramos en la pintura, no en el marco. Nuestro centro de aprendizaje no se
 
  ### Paso #2: LLenar los requisitos
 
-Existen [tres formularios](/posts/admision) que deben ser completamente llenados y enviados de regreso a nosotros. 
+Existen [tres formularios](/admisiones/admision/) que deben ser completamente llenados y enviados de regreso a nosotros. 
 
 Luego los formularios serán revisados por CC3D para antes ser aprovado. 
 
