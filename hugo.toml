@@ -275,7 +275,7 @@ CanonifyURLs = true
 [permalinks]
     post = "/post/:filename"
     page = "/:filename"
-    plan-de-estudios = "/plan-de-estudios/:filename"
+    #plan-de-estudios = "/plan-de-estudios/:filename"
     #blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
