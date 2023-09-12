@@ -150,7 +150,7 @@ pluralizelisttitles = false
 [[menu.main]]
     identifier = "Libros"
     name       = "libros"
-    url        = "http://cc3d.org/libros/"
+    url        = "http://libros.cc3d.org"
     weight     = 8
 
 [[menu.main]]
