@@ -136,12 +136,6 @@ pluralizelisttitles = false
     parent     = "menu.allpages"
 
 [[menu.main]]
-    name       = "El Equipo"
-    url        = "/nosotros/equipo"
-    weight     = 2
-    parent     = "menu.allpages"
-
-[[menu.main]]
     name       = "Posición Doctrinal"
     url        = "/nosotros/"
     weight     = 3
