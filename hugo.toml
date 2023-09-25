@@ -110,7 +110,6 @@ pluralizelisttitles = false
     post       = 2
 
 
-
 [[menu.main]]
     name       = "Calendario"
     url        = "/calendar"
