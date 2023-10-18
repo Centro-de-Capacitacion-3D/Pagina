@@ -18,6 +18,9 @@ summaryLength = 70
 # Define the number of pots per page
 paginate = 10
 
+[markup.goldmark.renderer]
+ unsafe = true
+ 
 # not pluralize title pages by default
 pluralizelisttitles = false
 
@@ -147,6 +150,12 @@ pluralizelisttitles = false
     parent     = "menu.allpages"
 
 [[menu.main]]
+    name       = "Video"
+    url        = "/nosotros/2023"
+    weight     = 4
+    parent     = "menu.allpages"
+
+[[menu.main]]
     identifier = "Libros"
     name       = "libros"
     url        = "http://libros.cc3d.org"
@@ -198,7 +207,7 @@ pluralizelisttitles = false
     mainSections = ["blog"]
     defaultDescription = "Derechos Resevados ®CC3D"
     custom_css = ["css/custom_style.css"]
-    
+
     # Social media
     # facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
