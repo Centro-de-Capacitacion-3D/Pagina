@@ -4,6 +4,7 @@ date: 2023-08-27T22:30:27-04:00
 draft: false
 layout: "admisiones"
 summary: admisiones
+banner: "/img/banners/banner-3.jpg"
 ---
 
 #  Proceso de Inscripción

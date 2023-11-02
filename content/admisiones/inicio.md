@@ -3,7 +3,7 @@ title: "Inicio"
 date: 2023-08-27T21:45:04-04:00
 draft: false
 cover: 
-    image: img/P1100226.jpeg
+    image: "/img/banners/banner-3.jpg"
     alt: 'clase 2023'
 ---
 
