@@ -2,7 +2,7 @@
 Title: "Empieza"
 date: 2023-08-30T21:08:15-04:00
 draft: false
-banner: "/img/banners/banner-3.jpg"
+banner: "/img/banners/banner-6.jpg"
 ---
 
 ¡Nos alegra mucho tu deseo de estudiar con nosotros!
