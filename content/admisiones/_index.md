@@ -2,7 +2,7 @@
 type: "admisiones"
 Title: "Admision"
 draft: false
-banner: "/img/banners/banner-3.jpg"
+banner: "/img/banners/banner-6.jpg"
 ---
 ![](/img/concentration.jpeg)
 # Gracias por tu interés de estudiar en el CC3D
