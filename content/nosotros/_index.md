@@ -35,9 +35,7 @@ Creemos que en la resurrección de Jesucristo de entre los muertos, Dios confirm
 
 Creemos que el Señor Jesucristo ascendió al cielo y está ahora exaltado a la diestra de Dios donde, como nuestro Sumo Sacerdote, cumple el ministerio de Representante, Intercesor y Abogado (Hechos 1:9-10; Hebreos 7:25, 9:24, Romanos 8:34, 1 Juan 2:1-2).
 
-Creemos que Jesucristo regresará para recibir a la Iglesia, que es Su cuerpo, consigo mismo en el Rapto y que volviendo con ella en gloria, establecerá su reino milenario en la tierra (Hechos 1:9-11; 1 Tesalonicenses 4:13- 18; Apocalipsis 20). Como el Mediador entre Dios y los hombres (1 Timoteo 2:5), la Cabeza de Su cuerpo, la Iglesia (Efesios 1:22; 5:23; Colosenses 1:18), y el Rey universal que reinará en el trono de David (Isaías 9:6 ,
-
- Lucas 1:31-33 ), Él es el Juez final de todos los que no pusieron su confianza en Él como Salvador personal (Mateo 25:14-46 , Hechos 17:30-31).
+Creemos que Jesucristo regresará para recibir a la Iglesia, que es Su cuerpo, consigo mismo en el Rapto y que volviendo con ella en gloria, establecerá su reino milenario en la tierra (Hechos 1:9-11; 1 Tesalonicenses 4:13- 18; Apocalipsis 20). Como el Mediador entre Dios y los hombres (1 Timoteo 2:5), la Cabeza de Su cuerpo, la Iglesia (Efesios 1:22; 5:23; Colosenses 1:18), y el Rey universal que reinará en el trono de David (Isaías 9:6 ,Lucas 1:31-33 ), Él es el Juez final de todos los que no pusieron su confianza en Él como Salvador personal (Mateo 25:14-46 , Hechos 17:30-31).
 
 ## LA PERSONA Y OBRA DEL ESPÍRITU SANTO
 
