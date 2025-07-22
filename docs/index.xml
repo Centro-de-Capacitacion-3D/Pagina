@@ -517,5 +517,15 @@ Nelly sirve también por medio de sus dones y talentos asegurando un apropiado r
 Durante el tiempo de la pandemia (COVID-19), su ministerio cambió a enfocarse más en los jóvenes via la enseñanza virtual.</description>
     </item>
     
+    <item>
+      <title>Radio</title>
+      <link>https://www.cc3d.org/radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cc3d.org/radio/</guid>
+      <description>Link directo para escuchar via navegador: https://listen.radioking.com/radio/737579/stream/803960
+Link para aplicaciones: https://api.radioking.io/radio/737579/listen.m3u</description>
+    </item>
+    
   </channel>
 </rss>
